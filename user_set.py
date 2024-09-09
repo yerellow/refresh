@@ -3,9 +3,6 @@
 import requests
 from lxml import etree
 
-# 设置多个需要刷量网址，及其次数，默认值为num
-num = 30
-webSites = [{'url': 'https://www.zgcsb.com/news/shenDuBaoDao/2024-05/13/a_515362.html', 'times': 102}]
 
 # 多个网页
 # webSites = [{'url':'xxx','times':num},{'url':'xxx','times':num}]
