@@ -8,7 +8,7 @@ import requests
 url = 'https://www.zgcsb.com/news/shenDuBaoDao/2024-05/13/a_515362.html'
 chromes = 2
 times = 1
-api = "https://dps.kdlapi.com/api/getdps/?secret_id=owb3f8sxl90bbpcr77za&signature=3pjrrzvs2qe9d84veit051djw6paapf2&num=20&pt=1&format=text&sep=1"
+api = "https://dps.kdlapi.com/api/getdps/?secret_id=owb3f8sxl90bbpcr77za&signature=3pjrrzvs换成你自己的paapf2&num=20&pt=1&format=text&sep=1"
 # 请求参数
 params = {
     "secret_id": "owb3f8sxl90bbpcr77za",
